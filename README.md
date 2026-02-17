@@ -1,4 +1,5 @@
-# Quip C++ SDK
+# Quip C++ SDKgit clone https://github.com/QuipNetwork/quip-cpp-sdk.git
+cd quip-cpp-sdk
 
 A C++ SDK for interacting with Quip smart contracts on Ethereum networks.
 
